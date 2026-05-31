@@ -1,6 +1,6 @@
 # 🌍 Global Health Monitor
 
-![Dashboard](dashboard_preview.png)
+![Dashboard].(dashboard_preview.png)
 
 ## 📋 Projektbeschreibung
 
